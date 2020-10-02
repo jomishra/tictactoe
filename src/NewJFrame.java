@@ -765,4 +765,5 @@ public class NewJFrame extends javax.swing.JFrame {
     private javax.swing.JButton reset;
     // End of variables declaration//GEN-END:variables
     //end here
+    //end here too
 }
